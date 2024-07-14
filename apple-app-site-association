@@ -1,0 +1,11 @@
+{ 
+  "appLinks": {
+   "apps:": [],
+   "details": [
+    {
+     "appIDs": "SeongChanKang.com.SunKnagDeepLinkPractice1",
+     "paths": ["/path/to/content/*"]
+    }
+   ]
+ }
+}
