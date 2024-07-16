@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appIDs": "SeongChanKang.com.SunKnag.DeepLinkPractice1",
+                "appIDs": "SeongChanKang.com.SunKang.DeepLinkPractice1",
                 "paths": ["/path/to/content/*"]
             }
         ]
